@@ -1,4 +1,4 @@
-# Tree-Graph-With-D3.js
+# Tree Graph With D3.js
 
 By following these steps you can easily implement d3.js with your current application.
 
